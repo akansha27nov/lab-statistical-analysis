@@ -1,0 +1,5 @@
+effect_size_pct,min_days_for_80pct_power,current_data_status
+5.0,150,insufficient
+10.0,40,sufficient
+15.0,20,sufficient
+20.0,20,sufficient

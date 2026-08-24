@@ -1,0 +1,28 @@
+
+Because no channel shows a statistically reliable or practically meaningful
+CPA/ROAS advantage, budget allocation should be driven primarily by
+STRATEGIC and OPERATIONAL factors this dataset cannot measure, not by the
+tiny point-estimate gaps between channels. Recommended qualitative lens:
+
+1. Maintain diversification. With performance statistically indistinguishable,
+   concentrating spend in 1-2 channels adds audience-fatigue and platform-
+   dependency risk without an evidenced performance payoff.
+
+2. Weight by strategic fit, not point estimates. Prefer channels that:
+   - align with target audience reachability (see Target_Audience/Customer_Segment
+     cuts, not analyzed here but available in the raw data for follow-up),
+   - have lower operational overhead (e.g. Email/Search are typically cheaper
+     to iterate on creative than Influencer/Video),
+   - support brand and full-funnel goals beyond last-click conversion
+     (e.g. Social/Influencer for awareness, Search/Email for conversion).
+
+3. Treat this analysis as a "no differentiation" baseline. Re-run this exact
+   pipeline quarterly; if a real gap emerges it will show up as a LARGER,
+   more stable effect size (Cohen's d, odds ratio) than anything seen here,
+   not just a lower p-value.
+
+4. Do not chase the FDR-significant conversion-rate results operationally.
+   Reallocating budget based on a 0.02-0.06 percentage-point conversion
+   gap (odds ratio ~0.99-1.01) risks a costly decision built on statistical
+   noise amplified by sample size, exactly the mistake this analysis was
+   commissioned to avoid.

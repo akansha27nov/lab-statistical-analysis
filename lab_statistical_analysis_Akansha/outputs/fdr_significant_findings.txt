@@ -1,0 +1,16 @@
+FDR-Significant Findings Summary
+========================================
+CPA: 0 significant pairs
+Conversion Rate: 9 significant pairs
+
+  Google Ads has a higher conversion rate than YouTube (diff=0.032 pp, p_fdr=9.54e-04, odds ratio=1.0043)
+  Google Ads has a higher conversion rate than Instagram (diff=0.021 pp, p_fdr=3.19e-02, odds ratio=1.0029)
+  Email has a higher conversion rate than Google Ads (diff=0.024 pp, p_fdr=1.36e-02, odds ratio=0.9967)
+  Website has a higher conversion rate than YouTube (diff=0.048 pp, p_fdr=5.17e-07, odds ratio=0.9935)
+  Facebook has a higher conversion rate than YouTube (diff=0.042 pp, p_fdr=1.02e-05, odds ratio=0.9943)
+  Email has a higher conversion rate than YouTube (diff=0.056 pp, p_fdr=6.39e-09, odds ratio=0.9924)
+  Website has a higher conversion rate than Instagram (diff=0.037 pp, p_fdr=8.68e-05, odds ratio=0.9949)
+  Facebook has a higher conversion rate than Instagram (diff=0.031 pp, p_fdr=1.05e-03, odds ratio=0.9957)
+  Email has a higher conversion rate than Instagram (diff=0.045 pp, p_fdr=2.44e-06, odds ratio=0.9939)
+
+Caveat: all surviving odds ratios are ~0.99-1.01 (practically negligible).
